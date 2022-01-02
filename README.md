@@ -1,3 +1,3 @@
-# Titanic - Machine Learning Project - Predict who would've survived the Titanic from Disaster?
+# First-kaggle-project: Titanic - Machine Learning Project
 
-I have made the Machine learning project in python.
+# Predict who would've survived the Titanic from Disaster?
